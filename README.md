@@ -8,3 +8,5 @@ Solutions for some of the practice problems in HackerEarth.
 
 Visit my blog for more Tech Stuff
 ### http://www.prashplus.com
+
+### https://www.hackerearth.com/@prashplus
