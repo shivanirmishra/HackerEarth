@@ -1,0 +1,13 @@
+t=int(input())
+i=0
+temp=0
+while t:
+    t-=1
+    temp=0
+    a = input()
+    for char in a:
+        if char.lower() in ['a','e','i','o','u']:
+            temp+=1
+    
+    print(temp)
+    
