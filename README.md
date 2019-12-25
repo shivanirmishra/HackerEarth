@@ -1,6 +1,8 @@
 # HackerEarth
 Solutions for some of the practice problems in HackerEarth.
 
+### Note
+Please don't refer this repo to score high 
 
 ## Authors
 
@@ -8,6 +10,6 @@ Solutions for some of the practice problems in HackerEarth.
 * **Shivani Mishra** - - [Shivani](https://github.com/shivanirmishra)
 
 Visit my blog for more Tech Stuff
-### http://www.prashplus.com
-
+### http://prashplus.blogspot.com
 ### https://www.hackerearth.com/@prashplus
+### http://www.prashplus.com
